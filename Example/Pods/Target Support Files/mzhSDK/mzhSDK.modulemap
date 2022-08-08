@@ -1,0 +1,6 @@
+framework module mzhSDK {
+  umbrella header "mzhSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mzhSDK",
+  "version": "0.1.0",
+  "summary": "A short description of mzhSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mazhonghui/mzhSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mazhonghui": "1216838135@@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mahzonghui/mzhSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "mzhSDK/Classes/**/*"
+}

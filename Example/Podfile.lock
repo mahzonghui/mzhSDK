@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - mzhSDK (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - mzhSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  mzhSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  mzhSDK: cee3e808d69d549c03f6f084f4e1995bcb10169e
+
+PODFILE CHECKSUM: 7626b9a9808ae5d788c96bcf988e9853964f1c90
+
+COCOAPODS: 1.11.3

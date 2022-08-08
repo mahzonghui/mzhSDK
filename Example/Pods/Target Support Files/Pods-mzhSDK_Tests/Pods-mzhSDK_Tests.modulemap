@@ -1,0 +1,6 @@
+framework module Pods_mzhSDK_Tests {
+  umbrella header "Pods-mzhSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
