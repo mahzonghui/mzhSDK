@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - mzhSDK (0.1.0)
+  - mzhSDK (0.2.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  mzhSDK: cee3e808d69d549c03f6f084f4e1995bcb10169e
+  mzhSDK: 3b101b6737c3d8925d5b72bf5381bbc9158aaaa1
 
 PODFILE CHECKSUM: 7626b9a9808ae5d788c96bcf988e9853964f1c90
 
